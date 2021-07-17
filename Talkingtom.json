@@ -1,5 +1,5 @@
 {
-  "ads_adapter": "false",
+  "ads_adapter": "mopub",
   "tapdaq_app_id": "",
   "tapdaq_client_key": "",
   "tapdaq_banner_ad_id": "default",
