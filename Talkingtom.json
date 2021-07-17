@@ -6,8 +6,8 @@
   "tapdaq_interstitial_video_ad_id": "default",
   "admob_banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial_video_ad_id": "ca-app-pub-3940256099942544/8691691433",
-  "mopub_banner_ad_id": "",
-  "mopub_interstitial_video_ad_id": "",
+  "mopub_banner_ad_id": "b195f8dd8ded45fe847ad89ed1d016da",
+  "mopub_interstitial_video_ad_id": "24534e1901884e398f1253216226017e",
   "caller_id": "MED HAD",
   "caller_pic": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
   "background_color": "#ffffff"
